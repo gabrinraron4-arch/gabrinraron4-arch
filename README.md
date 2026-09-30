@@ -34,6 +34,50 @@ I'm exploring software development, learning continuously, and building projects
 - 
 
 
+## Skills & tools I'm exploring
+
+
+
+These badges represent tools and technologies I'm learning and using:
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,markdown)](https://skillicons.dev)
+
+
+
+## GitHub stats
+
+
+
+<div align="center">
+
+
+
+![Gabrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrinraron4-arch&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrinraron4-arch&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+![GitHub streak](https://streak-stats.demolab.com?user=gabrinraron4-arch&theme=tokyonight&hide_border=true)
+
+
+
+</div>
+
+
+
+## Contribution activity
+
+
+
+![Gabrin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrinraron4-arch&theme=tokyo-night&hide_border=true)
+
+
+
 ## Let's connect
 
 
