@@ -8,10 +8,12 @@ I'm learning by building — exploring software development, practical products,
 
 ## About me
 
-- 🧑‍💻 Building projects to strengthen my software engineering fundamentals
-- 🌐 Exploring web development, real-time applications, maps, and developer tools
-- 📚 Improving my skills in programming, data structures, databases, and modern web technologies
-- 🤝 Open to learning, collaborating on projects, and contributing to open source
+I’m building a strong foundation in software engineering through hands-on learning and practical projects.
+
+- Developing fundamentals in programming, data structures, and databases
+- Exploring web development, real-time applications, maps, and developer tools
+- Practicing clean code, debugging, documentation, and collaborative workflows
+- Open to learning from others and contributing to meaningful open-source work
 
 ## My learning focus
 
