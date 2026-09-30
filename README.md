@@ -1,22 +1,29 @@
 # Hi, I'm Gabrin R Aron 👋
 
-Welcome to my GitHub profile.
+### Software developer in progress
 
-I'm exploring software development, learning continuously, and building projects one step at a time. This profile is where I'll share what I'm working on, what I'm learning, and the ideas I bring to life.
+I'm learning by building — exploring software development, practical products, and problem-solving through hands-on projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-gabrinraron4--arch-181717?style=for-the-badge&logo=github)](https://github.com/gabrinraron4-arch)
 
 ## About me
 
-- Curious about technology and problem-solving
-- Learning by building practical projects
-- Always open to improving and collaborating
+- 🧑‍💻 Building projects to strengthen my software engineering fundamentals
+- 🌐 Exploring web development, real-time applications, maps, and developer tools
+- 📚 Improving my skills in programming, data structures, databases, and modern web technologies
+- 🤝 Open to learning, collaborating on projects, and contributing to open source
 
-## What I'm working on
+## My learning focus
 
-- Strengthening my development skills
-- Creating useful and meaningful projects
-- Documenting my progress along the way
+| Area | Focus |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, responsive interfaces, and data visualization |
+| Backend | APIs, real-time applications, authentication, and server fundamentals |
+| Databases | Data modeling, SQL, and document database fundamentals |
+| Engineering | Git, debugging, clean code, documentation, and collaboration |
+| Foundations | Programming fundamentals, data structures, and problem solving |
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
@@ -28,8 +35,6 @@ I'm exploring software development, learning continuously, and building projects
 
 </div>
 
-## Contribution activity
-
 ![Gabrin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrinraron4-arch&theme=tokyo-night&hide_border=true)
 
 ## Let's connect
@@ -38,4 +43,4 @@ Feel free to explore my repositories and follow along as I learn and build.
 
 ---
 
-*Thanks for stopping by!*
+*Keep learning. Keep building. Keep shipping.*
